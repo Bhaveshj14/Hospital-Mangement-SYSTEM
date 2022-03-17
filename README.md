@@ -26,7 +26,7 @@
 - Can view their Appointments, booked by admin.
 - Can delete their Appointment, when doctor attended their appointment.
 
-### Patient
+### Patient 
 - Create account for admit in hospital. Then Login (Approval required by hospital admin, Then only patient can login).
 - Can view assigned doctor's details like ( specialization, mobile, address).
 - Can view their booked appointment status (pending/confirmed by admin).
