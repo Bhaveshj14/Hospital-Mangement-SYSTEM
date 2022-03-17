@@ -64,7 +64,7 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 - Login to gmail through host email id in your browser and open following link and turn it ON
 ```
-https://myaccount.google.com/lesssecureapps
+https://myaccou nt.google.com/lesssecureapps
 ```
 ## Drawbacks/LoopHoles
 - Any one can be Admin. There is no Approval required for admin account. So you can disable admin signup process and use any logic like creating superuser.
